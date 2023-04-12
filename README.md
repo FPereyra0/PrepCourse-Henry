@@ -1,2 +1,3 @@
-Este es un proyecto de prueba de como crear mi primer repositorio
 
+
+Este es un proyecto para crear mi primer repositorio
